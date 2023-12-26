@@ -41,5 +41,7 @@ For each member:
 
 ### Reference material:
 https://www.datacamp.com/tutorial/geopandas-tutorial-geospatial-analysis
+
 Weekly homework and lab excercises from Programming for Data Science
+
 Lab exercises from Programming for Data Science
