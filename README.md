@@ -37,7 +37,7 @@ Class: 21KHDL01
 For each member:
 * What difficulties have you encountered?
 * What have your learned?
-**If our group had more time, what would we do?**
+* If our group had more time, what would we do?
 
 ### Reference material:
 https://www.datacamp.com/tutorial/geopandas-tutorial-geospatial-analysis
