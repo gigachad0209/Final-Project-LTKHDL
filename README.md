@@ -2,7 +2,7 @@
 
 ## Group information
 
-* Class: 21KHDL01
+Class: 21KHDL01
 
 | Name              | ID       |
 |-------------------|----------|
@@ -19,8 +19,8 @@
 ### Exploring data
 
 * Is there any missing values in the dataset?
-* What are the value distribution across columns
-* Column and row meaning
+* What are the value distribution across columns?
+* Columns and row meaning
 
 ### Making meaningful question
 
@@ -30,18 +30,16 @@
 * Question 4: What is the crime situation in different area of New York?
 
 ### Preprocessing + anlyzing data to answer each question
-* Preprocess data (if needed) to analyze more eassily
+* Preprocess data (if needed) to analyze more easily
 * Use data visualization to find insights
 
 ### Reflection
 For each member:
 * What difficulties have you encountered?
 * What have your learned?
-* If our group had more time, what would we do?
+**If our group had more time, what would we do?**
 
 ### Reference material:
 https://www.datacamp.com/tutorial/geopandas-tutorial-geospatial-analysis
-
-Weekly homework and lab excercises from Programming for Data Science
-
-Lab exercises from Programming for Data Science
+* Weekly homework and lab excercises from Programming for Data Science
+* Lab exercises from Programming for Data Science
