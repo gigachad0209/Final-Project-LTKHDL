@@ -1,8 +1,3 @@
-# FINAL PROJECT – Progamming to Data Science
-
-## Group information
-
-Class: 21KHDL01
 
 | Name              | ID       |
 |-------------------|----------|
