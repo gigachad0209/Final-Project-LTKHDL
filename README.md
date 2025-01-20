@@ -1,9 +1,3 @@
-
-| Name              | ID       |
-|-------------------|----------|
-| Trương Công Gia Phát |21127667|
-| Trần Thái Toàn  | 21127743 |
-
 ## Project information
 
 ### About the dataset
